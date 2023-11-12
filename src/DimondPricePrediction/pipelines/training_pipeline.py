@@ -1,6 +1,3 @@
-import sys
-sys.path.append('D:/Ineuron/fsdsendtoend')
-
 
 from src.DimondPricePrediction.components.data_ingestion import DataIngestion
 
